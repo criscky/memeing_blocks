@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " n ",
+    "   "
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "memeing:ogey"
+  }
+}
